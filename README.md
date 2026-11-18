@@ -25,15 +25,3 @@ Test the live deployed application here: **[https://nexaspace-3nih.onrender.com]
 - **DevOps:** Docker, Render
 
 ---
-
-## Local Installation & Setup
-
-If you would like to run NexaSpace locally, follow these steps:
-
-### 1. Prerequisites
-- Python 3.9+ installed
-- An [OpenRouter API Key](https://openrouter.ai/)
-
-### 2. Clone the Repository
-```bash
-git clone [https://github.com/SOUL665/nexaspace.git](https://github.com/SOUL665/nexaspace.git)
