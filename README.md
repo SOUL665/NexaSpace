@@ -23,5 +23,3 @@ Test the live deployed application here: **[https://nexaspace-3nih.onrender.com]
 - **Scraping:** Playwright, BeautifulSoup4
 - **Frontend:** Vanilla HTML, CSS, JavaScript
 - **DevOps:** Docker, Render
-
----
